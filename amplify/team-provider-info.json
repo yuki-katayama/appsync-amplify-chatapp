@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtappsyncchat-dev-ba23e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::065394252477:role/amplify-nuxtappsyncchat-dev-ba23e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::065394252477:role/amplify-nuxtappsyncchat-dev-ba23e-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-nuxtappsyncchat-dev-ba23e-deployment",
+      "UnauthRoleName": "amplify-nuxtappsyncchat-dev-ba23e-unauthRole",
+      "StackName": "amplify-nuxtappsyncchat-dev-ba23e",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:065394252477:stack/amplify-nuxtappsyncchat-dev-ba23e/58898c60-f58c-11ee-a2cd-069297f672b3",
+      "AmplifyAppId": "dfg1zmxk6niel"
+    },
+    "categories": {
+      "api": {
+        "nuxtappsyncchat": {}
+      }
+    }
+  }
+}
