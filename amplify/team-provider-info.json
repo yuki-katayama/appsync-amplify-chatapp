@@ -14,6 +14,18 @@
     "categories": {
       "api": {
         "nuxtappsyncchat": {}
+      },
+      "auth": {
+        "nuxtappsyncchat107dbcab": {}
+      },
+      "storage": {
+        "s3f526f447": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dfg1zmxk6niel",
+          "type": "manual"
+        }
       }
     }
   }
